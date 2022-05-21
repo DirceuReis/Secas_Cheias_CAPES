@@ -19,6 +19,9 @@ Livro oriundo do projeto de pesquisa entitulado **IMPACTOS DAS MUDANÇAS CLIMÁT
 - Daniel Antônio Camelo Cid (UFC)
 - Maycon Breno Macena da Silva (UFCG)
 
+## Sugestão de citação
+Souza Filho, Francisco de Assis; Reis Jr., Dirceu Silveira; Galvão, Carlos de Oliveira (Orgs.). SECAS E CHEIAS: Modelagem e Adaptação aos extremos hidrológicos no contexto da variabilidade e mudança do clima. Expressão Gráfica e Editora, Fortaleza/CE, 1260 p., 2022. 
+
 ## Apresentação
 
 As mudanças climáticas têm nos recursos hídricos uma de suas dimensões mais relevantes. Os impactos das mudanças climáticas nos extremos hidrológicos (secas e cheias) podem impor aumento significativo da vulnerabilidade das populações humanas e do desenvolvimento social. Avaliar os riscos de aumento da frequência destes eventos e as severidades dos mesmos é passo inicial e necessário para a proposição de estratégias de adaptação que possibilitem maior resiliência da sociedade à variabilidade e mudança climática.
