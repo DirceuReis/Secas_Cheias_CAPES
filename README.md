@@ -20,7 +20,7 @@ Livro oriundo do projeto de pesquisa entitulado **IMPACTOS DAS MUDANÇAS CLIMÁT
 - Maycon Breno Macena da Silva (UFCG)
 
 ## Sugestão de citação
-Souza Filho, Francisco de Assis; Reis Jr., Dirceu Silveira; Galvão, Carlos de Oliveira (Orgs.). SECAS E CHEIAS: Modelagem e Adaptação aos extremos hidrológicos no contexto da variabilidade e mudança do clima. Expressão Gráfica e Editora, Fortaleza/CE, 1260 p., 2022. 
+Souza Filho, Francisco de Assis; Reis Jr., Dirceu Silveira; Galvão, Carlos de Oliveira (Orgs.). SECAS E CHEIAS: Modelagem e Adaptação aos extremos hidrológicos no contexto da variabilidade e mudança do clima. Expressão Gráfica e Editora, Fortaleza/CE, 1260 p., 2022. doi:10.5281/zenodo.6569311.
 
 ## Apresentação
 
